@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+    color: crimson;
+}
+.a{
+    text-align: left;
+    color: darkmagenta;
+    background-color: honeydew;
+}
+p.center{
+    text-align: center;
+    color: palevioletred;
+}
+p.large {
+    font-size: 250%;
+}
