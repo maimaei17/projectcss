@@ -1,8 +1,4 @@
-#a1 {
-    text-align: center;
-    color: brown;
-}
-#a2 {
+#a {
     text-align: left;
     color:rebeccapurple;
     font-size: 100px;
@@ -11,10 +7,10 @@
 #body {
     background-color:thistle;
 }
-#p3 {
-    font-size:70px;
+#p {
+    font-size:50px;
     text-align: right;
-    color: blue;
+    color: rgb(4, 4, 104);
 }
 #b {
     text-align: right;

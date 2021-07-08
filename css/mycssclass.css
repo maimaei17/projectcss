@@ -1,10 +1,10 @@
 .center{
     text-align: center;
-    color: crimson;
+    color: rgb(190, 63, 89);
 }
 .a{
     text-align: left;
-    color: darkmagenta;
+    color: rgb(78, 12, 78);
     background-color: honeydew;
 }
 p.center{
@@ -12,5 +12,5 @@ p.center{
     color: palevioletred;
 }
 p.large {
-    font-size: 250%;
+    font-size: 150%;
 }
